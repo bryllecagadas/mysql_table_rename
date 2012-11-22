@@ -1,12 +1,5 @@
 #!/bin/bash
 
-#string="www8119_test"
-#search="www8119_"
-#replace=""
-#new=${string/$search/$replace}
-#echo $new;
-#exit 0;
-
 echo "Enter username:"
 read user
 echo "Enter password:"
